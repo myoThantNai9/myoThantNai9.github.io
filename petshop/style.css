@@ -6,14 +6,7 @@ body {
 }
 
 header {
-    background-color: #269929;
-    padding: 20px;
-    color: white;
-}
-
-footer {
-    display: flex;
-    background-color: #269929;
+    background-color: #4CAF50;
     padding: 20px;
     color: white;
 }
@@ -44,7 +37,7 @@ nav a {
 .pet img {
     width: 150px;
     height: 150px;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 button {
@@ -56,5 +49,5 @@ button {
 }
 
 button:hover {
-    background-color: #7a0000;
+    background-color: #005f7a;
 }
