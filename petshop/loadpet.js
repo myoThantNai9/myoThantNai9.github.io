@@ -11,7 +11,10 @@ const pets = [
   {"name": "Mango", "type": "Bird", "age": 1.2, "img": "img//birds/bird02.jpg"},
   {"name": "Pebble", "type": "Capybara", "age": 0.3, "img": "img/capybaras/capybara01.jpg"},
   {"name": "River", "type": "Capybara", "age": 0.5, "img": "img/capybaras/capybara02.jpg"},
-
+  {"name": "Nemo", "type": "Fish", "age": 0.1, "img": "img/fish/Nemo.jpeg"},
+  {"name": "Goldie", "type": "Fish", "age": 0.2, "img": "img/fish/Gold Fish.jpg"},
+  {"name": "Goofy", "type": "Raccoon", "age": 0.2, "img": "img/raccoons/Goofy.jpg"},
+  {"name": "Poong", "type": "Raccoon", "age": 0.6, "img": "img/raccoons/Poong.jpg"}
 ];
 
 /**
